@@ -8,3 +8,5 @@ The NWHL has finished their 2021 season, and are getting ready to build new rost
  - What types of shots should the player focus on from each position in the field? 
  - What types of passes should the player be attempting in the defensive and offensive zones?
  - What are the key areas for improvement?
+
+Link to Tableau dashboard - https://public.tableau.com/app/profile/bhavana.b.rao/viz/shot_goalcoordinates_v2020_4/EventsOnTheField
