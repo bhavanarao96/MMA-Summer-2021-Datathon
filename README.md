@@ -1,4 +1,4 @@
-# MMA-Summer-2021-Datathon: Choose Players for NWHL 2021
+# MMA Summer 2021 Datathon: Choose Players for NWHL 2021
 
 The NWHL has finished their 2021 season, and are getting ready to build new rosters for 2021/2022.  Your Data Science team is hired by Toronto Six to help assemble a team for the new season.  You can choose any current player from any current team in the league. Some of the questions you may want to address are: 
 
